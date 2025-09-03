@@ -1,4 +1,4 @@
-# 🚀 Airflow + Docker Demo Project
+# 🚀 Airflow + Docker Project
 
 Este proyecto demuestra cómo orquestar flujos de trabajo en **Apache Airflow** usando **Docker** y **Visual Studio Code**.  
 Incluye ejemplos prácticos de distintos tipos de operadores, sensores, reglas de ejecución, paso de datos entre tareas y branching, todo con código limpio, comentado y fácilmente replicable.
